@@ -1,0 +1,34 @@
+### LaTeX build files (all subfolders) ###
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# LaTeX temporary / build directories (any depth)
+out/
+build/
+_latexmk/
+latexmk/
+
+# BibTeX backups
+*.bib.bak
+
+# Editor / temp files
+*.bak
+*.tmp
+
+# Always keep PDFs
+!*.pdf
+
+preprints_and_publications/preprints/gft-linguistics/
+preprints_and_publications/preprints/law-philosophy/
