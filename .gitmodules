@@ -1,0 +1,3 @@
+[submodule "frameworks/pomdp"]
+	path = frameworks/pomdp
+	url = git@github.com:wwwwanhonghuang/framework-POMDP.git
