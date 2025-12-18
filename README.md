@@ -1,9 +1,19 @@
-# Relational Being Infrastructure
+This project develops an infrastructural framework for exploring relational being as a mode of existence. Rather than advancing a single theory or empirical claim, it provides a structured overview of the conditions under which relational being can be understood, enacted, generated, sustained, and carried across contexts.
 
-This repository provides a conceptual and organizational infrastructure for research oriented toward relational being or relational existence. Infrastructure is understood not merely as technical tooling, but as the conditions that allow relational forms of existence to be articulated, sustained, generated, and preserved across disciplines.
+Here, “infrastructure” is understood as a set of enabling conditions—conceptual, theoretical, procedural, social, and ethical—that support the unfolding of relational being. The project organizes these conditions into seven interrelated infrastructural domains:
 
-The project adopts a multi-dimensional perspective in which infrastructures are treated as relational conditions rather than exclusive categories. Individual research projects may therefore relate to multiple infrastructural dimensions simultaneously. To support this, the repository emphasizes reverse indexing, explicit relational references, and a clear separation between infrastructure, projects, and research outputs.
+1. Theoretical Infrastructure, providing formal and modelable frameworks for articulating relational structures and generative processes.
 
-This repository functions as a meta-level framework. It hosts conceptual definitions, infrastructural indexes, and documentation of methodological, ethical, and dissemination principles. Concrete research outputs—such as preprints, manuscripts, or codebases—are intentionally maintained in independent repositories and linked rather than absorbed, preserving autonomy, version clarity, and long-term sustainability.
+2. Conceptual and Ontological Understanding Infrastructure, clarifying core principles of relation, being, presence, structure, and generation.
 
-The infrastructure is designed to evolve. Stability is introduced deliberately through documentation, versioning, and archival practices, without foreclosing future conceptual development.
+3. Co-presence Infrastructure, supporting the experiential conditions through which relations are perceived and enacted across distance and mediation.
+
+4. Decision Infrastructure, enabling relational action and governance to unfold through accountable, process-oriented, and evidence-informed practices.
+
+5. Co-creative Infrastructure, sustaining the generative emergence of new relations, meanings, and structures through shared practices.
+
+6. Educational Infrastructure, cultivating and transmitting relational capacities across individuals, communities, and generations.
+
+7. Ethical and Care Infrastructure, carrying and reconstituting relations under conditions of vulnerability, asymmetry, and dependence.
+
+As a top-level OSF project, this repository serves as a conceptual map and coordination space. It may host or reference multiple subprojects addressing specific infrastructures, methods, applications, or case studies. Together, these components form an integrated condition structure for relational being, supporting its continuous unfolding across theoretical, practical, and institutional domains.
